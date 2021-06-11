@@ -1,0 +1,29 @@
+{
+  "name": "Fuji Token List",
+  "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/43113/logos/0x90E487E9a08fF29B2F97ECd0eD73886692dF70D1.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [],
+  "timestamp": "2021-06-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0x90E487E9a08fF29B2F97ECd0eD73886692dF70D1",
+      "chainId": 43113,
+      "name": "Polarfox",
+      "symbol": "PFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/43113/logos/0x90E487E9a08fF29B2F97ECd0eD73886692dF70D1.png"
+    },
+    {
+      "address": "0xa1cbD835A868D374aBc0B429A294A2F05C6C868A",
+      "chainId": 43113,
+      "name": "Akita Inu Governance Token",
+      "symbol": "gAKITA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/43113/logos/0xa1cbD835A868D374aBc0B429A294A2F05C6C868A.png"
+    }
+  ]
+}
