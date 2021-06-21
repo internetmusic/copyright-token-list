@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/list-logos/fuji-token-list.png",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "keywords": [],
@@ -32,6 +32,14 @@
       "symbol": "gAKITA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0x8BAb1Be3571a54e8dB6b975eb39ceDE251A1C6dF.png"
+    },
+    {
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "chainId": 43113,
+      "name": "Wrapped AVAX",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.png"
     },
     {
       "address": "0x598d84C62B6a9Af2FcF6DA1D9Bff52f9dd7D8226",
