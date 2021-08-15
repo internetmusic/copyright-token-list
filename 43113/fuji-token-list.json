@@ -1,6 +1,6 @@
 {
   "name": "Fuji Token List",
-  "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/list-logos/fuji-token-list.png",
+  "logoURI": "https://raw.githubusercontent.com/internetmusic/copyright-token-list/master/43113/list-logos/fuji-token-list.png",
   "version": {
     "major": 2,
     "minor": 1,
@@ -15,7 +15,7 @@
       "name": "Polarfox",
       "symbol": "PFX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0xAA9344D903ef9034612e8221C0e0eF3B744A42BF.png"
+      "logoURI": "https://raw.githubusercontent.com/internetmusic/copyright-token-list/master/43113/token-logos/0xAA9344D903ef9034612e8221C0e0eF3B744A42BF.png"
     },
     {
       "address": "0xFf2Ebd79c0948C8fE69b96434915ABC03Ebb5c37",
@@ -88,38 +88,6 @@
       "symbol": "TEST1",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0x1955Ef3c3eD165B0EC37D8A235E00e7D43558d81.png"
-    },
-    {
-      "address": "0x638208406e95524725fA4eA0d7776e059EB93886",
-      "chainId": 43113,
-      "name": "Test 2",
-      "symbol": "TEST2",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0x638208406e95524725fA4eA0d7776e059EB93886.png"
-    },
-    {
-      "address": "0xa154060c37517Ce08ba2e693f1e38A1aF1ef5983",
-      "chainId": 43113,
-      "name": "Test 3",
-      "symbol": "TEST3",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0xa154060c37517Ce08ba2e693f1e38A1aF1ef5983.png"
-    },
-    {
-      "address": "0xBA3Ca8e4C5bECC4d9C1356ffF544906B125658A5",
-      "chainId": 43113,
-      "name": "Test 4",
-      "symbol": "TEST4",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0xBA3Ca8e4C5bECC4d9C1356ffF544906B125658A5.png"
-    },
-    {
-      "address": "0xbD5E439d6eDCb6FE80078F028f0e417C7f6bfcd5",
-      "chainId": 43113,
-      "name": "Test 5",
-      "symbol": "TEST5",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0xbD5E439d6eDCb6FE80078F028f0e417C7f6bfcd5.png"
     },
     {
       "address": "0xc000c59e2eef1997ba4e1fd7c5690924d33fdbd7",
