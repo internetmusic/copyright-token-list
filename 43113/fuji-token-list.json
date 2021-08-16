@@ -64,15 +64,6 @@
       "symbol": "THOR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0x8106a9048c6B8AFeE3Bad165547b439307Adf734.png"
-    },
- 
-    {
-      "address": "0xc000c59e2eef1997ba4e1fd7c5690924d33fdbd7",
-      "chainId": 43113,
-      "name": "Test 6",
-      "symbol": "TEST6",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43113/token-logos/0xc000c59e2eef1997ba4e1fd7c5690924d33fdbd7.png"
     }
   ]
 }
